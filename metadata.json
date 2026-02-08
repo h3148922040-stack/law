@@ -1,0 +1,5 @@
+{
+  "name": "法鼎 - 智能法院判决书辅助生成系统",
+  "description": "一个专业的法律文书协作平台，利用 Gemini 3 Pro 的深度推理能力，协助法官和法律工作者构建结构严谨、逻辑缜密的判决书草案。",
+  "requestFramePermissions": []
+}
